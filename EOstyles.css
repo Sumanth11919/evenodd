@@ -1,0 +1,11 @@
+.even{
+    background-color: whitesmoke;
+    display: flex;
+    flex-direction: column;
+    width: fit-content;
+    
+
+}
+button{
+    background-color: blue;
+}
